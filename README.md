@@ -23,4 +23,4 @@ This is a simple weather app that allows users to check the current weather of a
 1. **Clone the repository** or download the files to your local machine.
    
    ```bash
-   git clone https://github.com/your-username/weather-app.git
+   git clone https://github.com/kulsoomhameed47/Weather-App
